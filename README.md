@@ -15,8 +15,9 @@
         <br>
         <li> <h4> I obtained my Master's degree in Experimental Psychology from Missouri State University in 2021. </h4> </li>
         <br>
-        <li> <h4> <a href="https://orcid.org/0000-0003-0936-5279"> ORCID </a> </h4> </td> </li>
+        <li> <h4> <a href="https://orcid.org/0000-0003-0936-5279"> ORCID </a> </h4> </li>
       </ul>
+    </td>
     <td> Please enjoy this picture of my cat, Clare! </td>
   </table>
 </body>
