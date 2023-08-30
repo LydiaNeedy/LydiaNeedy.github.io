@@ -18,7 +18,6 @@
         <li> <h4> <a href="https://orcid.org/0000-0003-0936-5279"> ORCID </a> </h4> </td> </li>
       </ul>
     <td> Please enjoy this picture of my cat, Clare! </td>
-    </td>
   </table>
 </body>
 </html>
